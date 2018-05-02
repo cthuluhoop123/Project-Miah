@@ -1,7 +1,9 @@
+import { constants } from 'zlib';
+
 const Discord = require('discord.js')
 const client = new Discord.Client()
 
-const prefix = ';'
+const defaultPrefix = ';'
 
 const chalk = require('chalk')
 
