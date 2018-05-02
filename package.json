@@ -1,0 +1,24 @@
+{
+  "name": "project-miah",
+  "version": "1.0.0",
+  "description": "project miah",
+  "main": "bot.js",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "discord.js": "^11.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Myvenya/Project-Miah.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Myvenya/Project-Miah/issues"
+  },
+  "homepage": "https://github.com/Myvenya/Project-Miah#readme"
+}
